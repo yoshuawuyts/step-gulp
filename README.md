@@ -27,7 +27,8 @@ tasks. If no tasks have been specified, then gulp will run the `default` task.
 - description: Run gulp in verbose mode
 
 ## License
-[MIT](https://tldrlegal.com/license/mit-license) © [wercker](http://wercker.com)
+[MIT](https://tldrlegal.com/license/mit-license) ©
+[Yoshua Wuyts](http://yoshuawuyts.com)
 
 [gulp]: http://gulpjs.com
 [node]: http://nodejs.org/download/
